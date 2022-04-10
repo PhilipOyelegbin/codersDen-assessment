@@ -1,0 +1,1 @@
+let firstName = "Philip"; last_name= "Oyelegbin"; single = true; country = "Nigeria"; age = 25;
